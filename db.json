@@ -1,0 +1,105 @@
+{
+  "contact": [
+    {
+      "id": "1710403302232",
+      "name": "Arpan Raval",
+      "email": "arpan98@gmail.com",
+      "sub": "Web Devloper",
+      "msg": "vdegegeg"
+    },
+    {
+      "id": "1710403480434",
+      "name": "Pankaj Makwana",
+      "email": "makwanap988@gmail.com",
+      "sub": "Web Devloper",
+      "msg": "helllo "
+    },
+    {
+      "id": "1710403722324",
+      "name": "Kishan Makwana",
+      "email": "kishan77@gmail.com",
+      "sub": "Web Devloper",
+      "msg": "sveagee"
+    }
+  ],
+  "user": [
+    {
+      "id": "1713244467806",
+      "name": "Pankaj Makwana",
+      "email": "makwanap988@gmail.com",
+      "password": "123456",
+      "mobile": "8780215451",
+      "status": "Unblock",
+      "img": "https://images.pexels.com/photos/35537/child-children-girl-happy.jpg?cs=srgb&dl=pexels-bess-hamiti-35537.jpg&fm=jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": "1710394301057",
+      "name": "Graphics",
+      "desc": "GEFORCE RTX 2070",
+      "image": "http://localhost:3001/file%20assesst/images/shop-img-3.jpg",
+      "price": "5000"
+    },
+    {
+      "id": "1710394382545",
+      "name": "T-Shirt",
+      "desc": "WOMEN BLACK T-SHIRT",
+      "image": "http://localhost:3001/file%20assesst/images/shop-img-1.jpg",
+      "price": "500"
+    },
+    {
+      "id": "1710394452025",
+      "name": "X-Box",
+      "desc": "GEARS 5 XBOX CONTROLLER",
+      "image": "http://localhost:3001/file%20assesst/images/shop-img-2.jpg",
+      "price": "1500"
+    },
+    {
+      "id": "1710394519818",
+      "name": "VR-Box",
+      "desc": "VIRTUAL REALITY SMILED",
+      "image": "http://localhost:3001/file%20assesst/images/shop-img-4.jpg",
+      "price": "7000"
+    }
+  ],
+  "games": [
+    {
+      "id": "1710483976105",
+      "game_id": "",
+      "name": "God Of War",
+      "desc": "Action games",
+      "image": "https://i.gadgets360cdn.com/products/large/MV5BMmVjMzkyYWMtNDNhNi00ZWI3LTgxNGUtODRkMWYxNjZmNDI5XkEyXkFqcGdeQXVyMzY0MTE3NzU-.-V1-FMjpg-UX1000-1000x1500-1666698829.jpg",
+      "price": "2000"
+    },
+    {
+      "id": "1711520992551",
+      "name": "Rise Of The Tomb Rider",
+      "desc": "Advanture games",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk1MGRkMTUtYTZmMy00Y2VmLThmMzgtMjZkOTQyNTBiZDI1XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
+      "price": "1200"
+    },
+    {
+      "id": "1711522706950",
+      "name": "The Witcher 3",
+      "desc": "Action games",
+      "image": "https://w0.peakpx.com/wallpaper/907/684/HD-wallpaper-the-witcher-3-wild-hunt-4-the-witcher-3-games-ps4-games-xbox-games-pc-games.jpg",
+      "price": "799"
+    },
+    {
+      "id": "1714554798062",
+      "name": "Call of Duty",
+      "desc": "Shooting Games",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202008/1900/lTSvbByTYMqy6R22teoybKCg.png",
+      "price": "1300"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "Pankaj Makwana",
+      "email": "makwanap988@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
